@@ -1,0 +1,10 @@
+*   83758d7 (HEAD -> main, origin/main, origin/HEAD) Merge pull request #1 from wassim-benmed/fix-typo
+|\  
+| * 9946766 (origin/fix-typo, fix-typo) Fix error in README.md
+|/  
+* 0cc7d49 Add Error
+| * b89953b (origin/feature-1, feature-1) Add Branch Feature-1 and file feature1.txt
+|/  
+* b4f0145 Add new line from local repo to README.md
+* c645542 Add line to README.md from WebGUI
+* e0df816 Initial commit

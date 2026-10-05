@@ -1,0 +1,7 @@
+  feature-1
+  fix-typo
+* main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/feature-1
+  remotes/origin/fix-typo
+  remotes/origin/main
